@@ -1,5 +1,7 @@
 import random
 
+#Simple number guessing game
+
 print('What is your name?')
 name = input()
 number = random.randint(0,100)
